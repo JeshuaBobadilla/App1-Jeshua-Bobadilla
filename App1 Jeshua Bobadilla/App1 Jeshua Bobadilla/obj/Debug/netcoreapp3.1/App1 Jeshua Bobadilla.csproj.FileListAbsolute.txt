@@ -1,0 +1,13 @@
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\bin\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.exe
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\bin\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.deps.json
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\bin\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.runtimeconfig.json
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\bin\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.runtimeconfig.dev.json
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\bin\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.dll
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\bin\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.pdb
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\obj\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.csprojAssemblyReference.cache
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\obj\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.AssemblyInfoInputs.cache
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\obj\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.AssemblyInfo.cs
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\obj\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.csproj.CoreCompileInputs.cache
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\obj\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.dll
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\obj\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.pdb
+C:\Users\jeshu\Desktop\App1 Jeshua Bobadilla\App1 Jeshua Bobadilla\obj\Debug\netcoreapp3.1\App1 Jeshua Bobadilla.genruntimeconfig.cache
